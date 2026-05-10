@@ -1,5 +1,5 @@
 ---
-title: "Claude Managed Agents 調査レポート ─ 永続自走エージェントを支える Memory / Multiagent / Outcomes / Dreaming / Webhooks / Vault"
+title: "永続自走エージェントを支える Memory / Multiagent / Outcomes / Dreaming / Webhooks / Vault"
 emoji: "📘"
 type: "tech"
 topics: ["claude", "anthropic", "ai", "agent", "managedagents"]
